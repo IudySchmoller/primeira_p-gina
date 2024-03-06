@@ -1,8 +1,9 @@
-header {background-color: red;
+header {background-color: rgb(255, 136, 0);
 }
-main {background-color: whitesmoke;
+main {background-color: coral;
 }
-footer {background-color: firebrick;
+footer {background-color: red;
 }
-img {200px;
+img {
+    width: 200px;
 }
